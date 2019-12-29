@@ -1,0 +1,1 @@
+person = {"le duc viet",16,"hanoi","true",7}
